@@ -1,0 +1,142 @@
+#topmenu
+{
+    min-height: 40px;
+}
+#subheader
+{
+    margin-top: 23px;
+}
+#subheader ul li:hover
+{
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    transition: transform 0.3s ease-out;
+    -webkit-transition: -webkit-transform 0.2s ease-out;
+    -moz-transition: -moz-transform 0.2s ease-out;
+}
+
+#mainmenu
+{
+    background-color: #ffffff;
+    border-radius:0px;
+    border-bottom: 1px solid #005588 ;
+    margin-bottom: 0px;
+    border-top: none;
+}
+#mobilemenu
+{
+    border-radius: 0px;
+    margin-top: 24px;
+}
+#menuitem
+{
+    margin-top: 41px;
+}
+#menuitem li:hover
+{
+    border-bottom: 2px solid #005588 ;
+}
+#middle-sec
+{
+    border-bottom: 1px solid #005588 ;
+    margin-bottom: 12px;
+}
+
+#left-sidebar ul li
+{
+    margin-top: 14px;
+    list-style-type: none;
+    font-size: 18px;
+}
+
+#right-sidebar
+{
+    border-left: 1px solid #005588 ;
+}
+@media (min-width: 320px) and (max-width: 991px)
+{
+ #right-sidebar
+ {
+    border-left: none;
+ }
+    
+}
+#posts
+{
+    margin-left: 68px;
+    margin-top: 80px;
+
+}
+#lastimg
+{
+    margin-bottom: 80px;
+    margin-left: 68px;
+    margin-top: 80px;
+}
+#site-footer
+{
+    
+}
+#footer ul a li
+{
+    list-style-type: none;
+    margin-top: 12px;
+}
+#footer ul
+{
+    margin-top: 24px;
+}
+#footer ul li 
+{
+    list-style-type: none;
+    margin-top: 12px;
+}
+#last p
+{
+        font-family:cursive;
+}
+#last a
+{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
